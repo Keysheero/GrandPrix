@@ -13,7 +13,7 @@ body {
 header {
   background-color: #0056b3;
   color: white;
-  padding: 15px 0;
+  padding: 0.7% 0;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -26,7 +26,7 @@ header .logo h1 {
 nav ul {
   list-style: none;
   display: flex;
-  margin-right: 20px;
+  margin-right: 5%;
 }
 
 nav ul li {
@@ -38,6 +38,7 @@ nav ul li a {
   text-decoration: none;
   font-size: 1.1rem;
 }
+
 
 .auth-links a {
   color: white;
@@ -52,7 +53,6 @@ nav ul li a {
   background-color: #ff8533;
 }
 
-/* Hero section */
 .hero {
   background-image: url("../assets/img/bigstock-Contemporary-Interior-Of-Class-426516818-1500x500.jpg");
   height: 500px;
@@ -107,7 +107,6 @@ nav ul li a {
   margin-bottom: 10px;
 }
 
-/* How it works section */
 .how-it-works {
   padding: 50px 20px;
   text-align: center;

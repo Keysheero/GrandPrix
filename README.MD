@@ -13,12 +13,8 @@ learners and investors, ensuring a transparent and collaborative path to success
 
 1. [Project Overview](#project-overview)
 2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
-7. [Contact](#contact)
-
+3. [Screenshots](#screenshots)
+4. [Prerequisites](#prerequisites)
 ---
 
 ## Project Overview
